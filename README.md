@@ -1,9 +1,11 @@
-# Basic Sample Hardhat Project
+# Polygon Layer-2 Ethereum Name Service
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
+### Run Locally
+```shell
+npm i
+npm start
+```
+### Hardhat
 ```shell
 npx hardhat accounts
 npx hardhat compile
