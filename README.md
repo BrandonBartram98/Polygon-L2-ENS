@@ -1,6 +1,6 @@
 # Polygon Layer-2 Ethereum Name Service
 
-- React frontend,
+- React
 - Solidity smart contracts 
 - Polygon Mumbai Testnet Deployment
 - MetaMask Wallet API
